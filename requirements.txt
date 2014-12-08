@@ -1,0 +1,6 @@
+flask==0.10.1
+requests==2.5.0
+gunicorn==19.0.0
+simplekml==1.2.3
+lxml==3.1.2
+Jinja2==2.7.3
